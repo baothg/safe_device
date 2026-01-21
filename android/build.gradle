@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace = "com.xamdesign.safe_device"
-    compileSdkVersion 30
+    compileSdkVersion 34
 
     defaultConfig {
         minSdkVersion 21
